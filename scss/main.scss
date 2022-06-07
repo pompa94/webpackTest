@@ -1,0 +1,16 @@
+$color--black:#000;
+$color--white:#fff;
+body{
+    h1{
+        text-align: center;
+    }
+    h2{
+        display: flex;
+        justify-content: center;
+    }
+    p{
+        background-color: $color--black;
+        color: $color--white;
+        text-align: center;
+    }
+}
